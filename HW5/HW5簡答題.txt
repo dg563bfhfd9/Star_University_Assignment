@@ -1,0 +1,7 @@
+簡答15_4   在Filelnfo物件建立新文字檔是使用__方法，新增文字內容至檔尾是呼叫__方法來開啟檔案。
+1:CreateText()
+2:AppendText()
+
+簡答15_5   檔案對話方塊依用途分為兩種控制項:___和___。
+1:OpenFileDialog
+2:SaveFileDialig
